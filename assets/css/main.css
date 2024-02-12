@@ -1992,7 +1992,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #f9f8f0;
+		border: solid 2px #800020;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
@@ -2471,11 +2471,11 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 4px #e4e4e4;
+			border-bottom: solid 4px #800020;
 		}
 
 		table tfoot {
-			border-top: solid 4px #e4e4e4;
+			border-top: solid 4px #800020;
 		}
 
 		table.alt {
@@ -2483,7 +2483,7 @@ input, select, textarea {
 		}
 
 			table.alt tbody tr td {
-				border: solid 2px #e4e4e4;
+				border: solid 2px #800020;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
@@ -2588,7 +2588,7 @@ input, select, textarea {
 		input[type="button"].alt,
 		.button.alt {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #e4e4e4;
+			box-shadow: inset 0 0 0 2px #800020;
 			color: #57504d !important;
 		}
 
@@ -2839,9 +2839,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #800020;
+		background: #fafafa;
 		border-top: 0;
-		color: #fffff2;
+		color: #57504d;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
