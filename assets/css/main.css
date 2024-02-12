@@ -2653,9 +2653,9 @@ input, select, textarea {
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
-		margin-bottom: 2.25em;
-		padding-top: 2.25em;
+		border-top: solid 3px #800020;
+		margin-bottom: 1.5em;
+		padding-top: 1.5em;
 	}
 
 		.features article:first-child {
@@ -2829,7 +2829,7 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 3em 0 2em 0;
 		}
 
 		#main > section:first-child {
@@ -2843,7 +2843,7 @@ input, select, textarea {
 		border-top: 0;
 		color: #f9f8f0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 2em 0 1em 0;
 	}
 
 		#footer .copyright {
@@ -3209,7 +3209,7 @@ input, select, textarea {
 		/* Main */
 
 			#main > section > .container {
-				padding: 2em 0 0 0;
+				padding: 1em 0 0 0;
 			}
 
 		/* Footer */
