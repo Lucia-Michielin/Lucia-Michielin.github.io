@@ -2829,9 +2829,9 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 0 0 0 0;
-			margin-left: -10px;
-			margin-right: -2em;
+			padding: 0 1em 0 1em;
+			margin-left: -1px;
+			margin-right: -20em;
 		}
 
 		#main > section:first-child {
