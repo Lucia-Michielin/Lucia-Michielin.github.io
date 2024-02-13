@@ -2829,7 +2829,7 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 1em 0 1em 0;
+			padding: 0 0 0 0;
 		}
 
 		#main > section:first-child {
