@@ -2830,8 +2830,8 @@ input, select, textarea {
 
 		#main > section > .container {
 			padding: 0 5em 0 5em;
-			margin-left: 1em;
-			margin-right: 20em;
+			margin-left: 10em;
+			margin-right: 50em;
 		}
 
 		#main > section:first-child {
