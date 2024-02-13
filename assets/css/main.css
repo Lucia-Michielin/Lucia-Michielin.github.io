@@ -2829,10 +2829,11 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 0 -1em 0 1em;
-			margin-left: 10em;
-			margin-right: 10em;
+			padding: 0 1em;
+			margin-left: 0;
+			margin-right: 0;
 		}
+
 
 		#main > section:first-child {
 			border-top: 0;
