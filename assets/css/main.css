@@ -2831,8 +2831,8 @@ input, select, textarea {
 		#main > section > .container {
 			width: auto !important;
 			padding: 0 1em;
-			margin-left: 2em;
-			margin-right: 2em !important;
+			margin-left: 5em;
+			margin-right: 5em !important;
 		}
 
 
